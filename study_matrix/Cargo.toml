@@ -3,3 +3,6 @@ name = "study_matrix"
 version = "0.1.0"
 authors = ["koralle"]
 edition = "2018"
+
+[dependencies]
+proconio = "0.4.2"
