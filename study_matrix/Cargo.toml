@@ -1,0 +1,5 @@
+[package]
+name = "study_matrix"
+version = "0.1.0"
+authors = ["koralle"]
+edition = "2018"
