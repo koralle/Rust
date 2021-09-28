@@ -1,5 +1,7 @@
 // 外部ファイルに定義したモジュールをCrate Rootに定義することでコンパイル対象にする
 mod sample_module;
+mod sample_module2;
+use sample_module2::sample_module2::cooking;
 
 #[cfg(test)]
 mod tests {
